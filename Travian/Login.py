@@ -1,5 +1,5 @@
-username = 'jlmay1969@gmail.com'
-password = 'Stayout1'
+username = ''
+password = ''
 
 
 payload = {
